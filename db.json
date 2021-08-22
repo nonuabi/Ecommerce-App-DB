@@ -1,8 +1,11 @@
 {
   "posts": [
-    {
-    "id": 1,
-    "title": "Post 1"
+     {
+      "id": 1,
+      "title": "Stylophone",
+      "description": "The Stylophone is a miniature analog stylus-operated keyboard. Invented in 1967 by Brian Jarvis, it entered production in 1968, manufactured by Dubreq.",
+      "price": "2000",
+      "rating": "3.4"
     },
     {
     "id": 2,
